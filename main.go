@@ -3,5 +3,12 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Hello, World")
+	/*
+		int
+		float32
+		bool
+		string
+	*/
+	var a int = 10
+	fmt.Println(a)
 }
